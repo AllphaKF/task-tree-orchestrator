@@ -8,8 +8,6 @@ description: >
   (3) 用户要求对既有大型任务建立结构树进行规范化管理。
   一旦调用本 skill，必须严格按照本 skill 内容执行，不得简化、跳过或自行变通流程。
   NOT for: 单文件小修小补、一次性问答、无多轮协作需求的普通编码任务。
-  English triggers: "use a task tree", "dual-role orchestration", "manager/executor model",
-  "structure a large task with branches", "round-based agent coordination", "patrol/inspection protocol".
 ---
 
 # 任务树编排协议（task-tree-orchestrator）
